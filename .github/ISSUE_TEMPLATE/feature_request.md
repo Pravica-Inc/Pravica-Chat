@@ -1,5 +1,5 @@
 ---
-name: Feature request
+name: 🚀 Discussions and Proposals
 about: Suggest an idea for this project
 title: ''
 labels: ''
